@@ -1,0 +1,80 @@
+<resources>
+    <string name="app_name">Xổ số Bình Dương</string>
+    <string name="close_dialog" />
+
+
+    <string name="desc1tit">Trò chơi xổ số Việt Nam</string>
+    <string name="desc1">Có rất nhiều trò chơi xổ số khác nhau ở Việt Nam, bao gồm xổ số thông thường và trò chơi Keno hàng ngày, rút thăm cứ 10 phút một lần!
+Tất cả các trò chơi xổ số của Việt Nam đều do Công ty Xổ số điện toán Việt Nam, một đơn vị thuộc Bộ Tài chính cấp giấy phép bán điểm cho các cửa hàng xổ
+        số được ủy quyền trên cả nước.</string>
+
+    <string name="desc2">Tại Việt Nam, Mega 6/45 là một trong hai loại hình xổ số kinh điển.
+Người chơi có thể chọn sáu số từ 1 đến 45 hoặc chọn Chọn nhanh cho các số được chọn ngẫu nhiên. Giá vé 10.000 đồng. Có thể nhập trước tối đa sáu bản vẽ Mega 6/45,
+    trong khi "Nhập túi" cho phép người chơi chọn tối đa 18 số. Các lựa chọn này sau đó có thể được nhập vào bản vẽ theo bất kỳ sự kết hợp nào, với tổng số 18.
+    564 mục nhập! Đây là một chiến lược tuyệt vời để người chơi tăng cơ hội chiến thắng, nhưng nó có thể dẫn đến những tấm vé cực kỳ đắt đỏ!</string>
+
+    <string name="desc3">Power 6/55 là trò chơi xổ số cổ điển thứ hai của Việt Nam, với tỷ lệ hoàn vốn
+    lớn hơn nhiều so với Mega 6/45 cho cùng một mức giá vé.
+Người chơi có thể chọn sáu số từ 1 đến 55 hoặc sử dụng tùy chọn Chọn nhanh để chọn ngẫu nhiên. Như
+    với Mega 6/45, bạn có thể "Vào túi", với tối đa 18 số để bạn lựa chọn.</string>
+
+    <string name="desc4">Mỗi lần rút thăm, người chơi có 20 cơ hội giành được giải thưởng trong Max 3D, một trò chơi kiểu "Chọn 3" điển hình.
+Để chơi Max 3D, người chơi phải chọn ba chữ số từ 0 đến 9 để tạo thành một số có ba chữ số. Mỗi lần, 20 số có ba chữ số được chọn,
+    với những người tham gia trùng khớp với bất kỳ số nào trong hai số đầu tiên sẽ trúng giải độc đắc.
+    Người chơi có số xuất hiện trong các lần rút 3 đến 20 có thể giành được giải thưởng phụ.</string>
+
+    <string name="desc5">Về hình thức, Max 4D có thể so sánh với Max 3D, nhưng nó có cấu trúc phần thưởng hơi khác và chỉ cho
+        phép người chơi 6 cơ hội giành chiến thắng thay vì 20.
+Để tạo một số có bốn chữ số, người chơi chọn bốn số nguyên từ 0 đến 9. Chỉ những người chơi trùng khớp với số đầu tiên đã chọn mới
+        đủ điều kiện nhận giải độc đắc, với các giải thưởng bổ sung được trao cho những người chơi trùng khớp với các số trong các kỳ quay 2 đến 6.
+        Có sẵn phần thưởng phụ nếu người chơi khớp với hai hoặc ba chữ số cuối cùng của số bốn chữ số ban đầu đã chọn.</string>
+
+    <string name="desc6">Trong khoảng thời gian từ 06:00 đến 21:55, các cuộc rút thăm keno diễn ra 10 phút một lần. Nếu người chơi muốn, họ có thể nhập
+        tối đa 30 bản vẽ cùng một lúc, mang đến cho họ nhiều cơ hội giành giải thưởng trong suốt cả ngày!
+Giá vé vào cổng là 10.000 đồng. Người chơi có thể chọn 10 số từ 1 đến 80 hoặc sử dụng tùy chọn Chọn nhanh cho các lựa chọn ngẫu nhiên để
+        giành giải độc đắc bằng cách kết hợp tất cả 10 số được rút ra trong mỗi lần quay thưởng.</string>
+
+
+    <string name="sched">Lịch thi đấu của từng trận xổ số Việt Nam được trình bày trong bảng dưới đây</string>
+
+
+    <string name="gp1">Chọn xổ số để chơi</string>
+    <string name="gp2">Chọn số của bạn</string>
+    <string name="gp3">Mua vé</string>
+    <string name="gp4">Kiểm tra số của bạn</string>
+    <string name="gp5">Mắc Phải Giải</string>
+
+    <string name="gp01">Nếu bạn không biết bắt đầu từ đâu, việc lựa chọn trò chơi chính xác từ hàng ngàn giải xổ số trên khắp
+        thế giới có thể là điều quá sức, nhưng sau khi bạn nắm được những kiến thức cơ bản, bạn sẽ có đủ tự tin để chọn trò chơi phù hợp cho mình.</string>
+<string name="gp02">Sử dụng các tùy chọn chọn nhanh hoặc chọn dễ cho các số được chọn ngẫu nhiên là cách đơn giản nhất để chọn số lotto của bạn.
+    Bạn nên kiểm tra số liệu thống kê nếu bạn có con số may mắn yêu thích.</string>
+<string name="gp03">Mặc dù tùy chọn này vẫn có sẵn, những ngày mua vé số chỉ trong một cửa hàng đã qua lâu. Mua vé trực tuyến là lựa chọn thuận tiện nhất.
+    Nhiều xổ số chính thức bán vé trực tuyến thông qua các trang web hoặc ứng dụng di động, nhưng bạn phải là công dân của quốc gia được đề cập.</string>
+<string name="gp04">Nhiều chương trình rút thăm được phát sóng trên truyền hình; tuy nhiên, việc kiểm tra các con số trên một trang web hoặc một ứng dụng di
+    động có thể thuận tiện hơn. Mỗi xổ số có thời gian quay thưởng riêng và bằng cách chơi trực tuyến từ một múi giờ khác nhau, bạn có thể chơi trong đêm khuya.</string>
+<string name="gp05">Bạn đã kiểm tra lại số của mình và phát hiện ra rằng bạn đã thắng! Xin chúc mừng. Quá trình xác nhận giải thưởng của bạn rất đơn giản.
+Hãy lưu ý rằng mọi xổ số đều có thời hạn thanh toán, thường là từ 30 đến 180 ngày. Các giải thưởng nhỏ hơn có thể được nhận từ người bán hoặc được tự động chuyển
+    cho bạn khi bạn chơi trực tuyến.</string>
+    <string name="back_button" />
+    <string name="back" />
+
+<string name="about1">Xổ số kiến thiết bắt đầu cách đây vài năm, khi ba người bạn mua và trúng vé số tổng hợp đầu tiên của họ. Điều này thu hút sự chú ý của
+    chúng tôi ngay lập tức và chúng tôi đã chơi xổ số thường xuyên kể từ đó.
+Chúng tôi là những nhà phân tích, và khi chúng tôi làm bất cứ điều gì, chúng tôi sẽ làm đúng. Chúng tôi không hài lòng với kiến thức cơ bản về xổ số và muốn
+    tìm hiểu mọi thứ có thể. Tại một số điểm, chúng tôi nhận ra rằng, mặc dù có một số trang web tốt đẹp về xổ số (thành thật mà nói là có), nhưng không có
+    trang web nào phức tạp như chúng tôi mong muốn.
+Do tất cả chúng tôi đã làm việc trong ngành công nghiệp trò chơi trực tuyến hơn mười năm, nên việc chúng tôi tạo ra trang web xổ số của riêng mình là điều
+    hoàn toàn tự nhiên để cung cấp cho bạn tất cả thông tin thích hợp về xổ số quốc tế.
+Nhiệm vụ của chúng tôi là thông báo cho các cá nhân về quy tắc của trò chơi, xác suất và các khả năng khác có sẵn thông qua xổ số. Chúng tôi mong muốn trở
+    thành nhà cung cấp xổ số chính của bạn.</string>
+
+    <string name="about2">Kể từ khi xổ số đầu tiên được chơi (giữa năm 205 và 187 trước Công nguyên), chúng tôi đã tiến tới một thời điểm mà mọi người trên thế
+        giới đều có thể tham gia vào bất kỳ loại hình xổ số toàn cầu nào. Chỉ cần thiết bị có kết nối internet. Đó là điều thúc đẩy chúng tôi vì chúng tôi tin tưởng
+        vào những tiến bộ của công nghệ. Nếu không có nó, rất có thể bạn sẽ xem nội dung này trên điện thoại thông minh của mình. Bây giờ bạn có thể chơi thực tế bất
+        kỳ xổ số nào trên thế giới, bất kể bạn đến từ đâu. Chúng tôi ở đây để hỗ trợ bạn và
+        cung cấp mọi thông tin cần thiết. Hãy bắt đầu ước mơ lớn, vì giải thưởng xổ số thế giới rất lớn và sẽ có người chiến thắng vào cuối ngày. Luôn thận trọng và
+        có trách nhiệm.</string>
+    <string name="splasch_screen">splasch_screen</string>
+
+
+</resources>
